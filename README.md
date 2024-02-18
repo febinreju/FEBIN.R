@@ -12,8 +12,6 @@ Building my version of the digital world one step at a time.
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/febinreju?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
----
-
 
 
 ### Languages and Tools:
